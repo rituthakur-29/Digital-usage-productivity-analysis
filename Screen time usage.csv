@@ -1,0 +1,71 @@
+﻿date ,app_name,category,time_spent_min ,pickups,notifications,is_productive
+2026-04-01,Instagram,Social Media,95,42,120,No
+2026-04-01,WhatsApp,Communication,60,35,200,Neutral
+2026-04-01,YouTube,Entertainment,80,18,25,No
+2026-04-01,Google Docs,Productivity,40,10,5,Yes
+2026-04-01,Spotify,Entertainment,50,12,8,No
+2026-04-02,Instagram,Social Media,110,48,140,No
+2026-04-02,WhatsApp,Communication,55,30,180,Neutral
+2026-04-02,YouTube,Entertainment,70,15,20,No
+2026-04-02,Google Docs,Productivity,45,9,6,Yes
+2026-04-02,Gmail,Productivity,30,8,12,Yes
+2026-04-03,Instagram,Social Media,120,50,150,No
+2026-04-03,WhatsApp,Communication,65,38,210,Neutral
+2026-04-03,YouTube,Entertainment,90,20,30,No
+2026-04-03,Spotify,Entertainment,60,14,10,No
+2026-04-03,Notion,Productivity,35,7,4,Yes
+2026-04-04,Instagram,Social Media,130,55,160,No
+2026-04-04,WhatsApp,Communication,70,40,220,Neutral
+2026-04-04,YouTube,Entertainment,85,19,28,No
+2026-04-04,Google Docs,Productivity,50,11,6,Yes
+2026-04-04,Gmail,Productivity,25,7,10,Yes
+2026-04-05,Instagram,Social Media,150,60,180,No
+2026-04-05,WhatsApp,Communication,75,42,240,Neutral
+2026-04-05,YouTube,Entertainment,100,22,35,No
+2026-04-05,Spotify,Entertainment,70,15,12,No
+2026-04-05,Notion,Productivity,30,6,3,Yes
+2026-04-06,Instagram,Social Media,90,40,110,No
+2026-04-06,WhatsApp,Communication,50,28,170,Neutral
+2026-04-06,YouTube,Entertainment,60,12,18,No
+2026-04-06,Google Docs,Productivity,60,12,5,Yes
+2026-04-06,Gmail,Productivity,35,9,11,Yes
+2026-04-07,Instagram,Social Media,100,45,130,No
+2026-04-07,WhatsApp,Communication,55,30,190,Neutral
+2026-04-07,YouTube,Entertainment,75,17,22,No
+2026-04-07,Spotify,Entertainment,65,13,9,No
+2026-04-07,Notion,Productivity,40,8,4,Yes
+2026-04-08,Instagram,Social Media,140,58,170,No
+2026-04-08,WhatsApp,Communication,80,45,250,Neutral
+2026-04-08,YouTube,Entertainment,95,21,33,No
+2026-04-08,Google Docs,Productivity,35,8,6,Yes
+2026-04-08,Gmail,Productivity,20,6,9,Yes
+2026-04-09,Instagram,Social Media,125,52,160,No
+2026-04-09,WhatsApp,Communication,70,38,210,Neutral
+2026-04-09,YouTube,Entertainment,85,19,29,No
+2026-04-09,Spotify,Entertainment,60,12,8,No
+2026-04-09,Notion,Productivity,45,9,5,Yes
+2026-04-10,Instagram,Social Media,135,56,165,No
+2026-04-10,WhatsApp,Communication,75,40,220,Neutral
+2026-04-10,YouTube,Entertainment,90,20,31,No
+2026-04-10,Google Docs,Productivity,50,10,6,Yes
+2026-04-10,Gmail,Productivity,30,8,10,Yes
+2026-04-11,Instagram,Social Media,160,65,200,No
+2026-04-11,WhatsApp,Communication,85,48,270,Neutral
+2026-04-11,YouTube,Entertainment,110,25,40,No
+2026-04-11,Spotify,Entertainment,75,16,14,No
+2026-04-11,Notion,Productivity,25,5,3,Yes
+2026-04-12,Instagram,Social Media,145,60,180,No
+2026-04-12,WhatsApp,Communication,80,45,250,Neutral
+2026-04-12,YouTube,Entertainment,100,23,35,No
+2026-04-12,Google Docs,Productivity,40,9,6,Yes
+2026-04-12,Gmail,Productivity,20,6,8,Yes
+2026-04-13,Instagram,Social Media,110,48,140,No
+2026-04-13,WhatsApp,Communication,60,35,200,Neutral
+2026-04-13,YouTube,Entertainment,85,18,28,No
+2026-04-13,Spotify,Entertainment,55,11,7,No
+2026-04-13,Notion,Productivity,50,10,5,Yes
+2026-04-14,Instagram,Social Media,120,50,150,No
+2026-04-14,WhatsApp,Communication,65,37,210,Neutral
+2026-04-14,YouTube,Entertainment,90,19,30,No
+2026-04-14,Google Docs,Productivity,45,10,6,Yes
+2026-04-14,Gmail,Productivity,35,9,12,Yes
